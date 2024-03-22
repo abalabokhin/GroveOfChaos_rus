@@ -1,0 +1,48 @@
+BACKUP ~GroveOfChaos/backup~
+SUPPORT ~Lava Del'Vortel - Weasel Mods~
+README ~GroveOfChaos/readme.txt~
+VERSION ~v1.3~
+
+// Translations
+AUTO_TRA ~GroveOfChaos/translations/%s~
+
+ALWAYS
+  INCLUDE ~%MOD_FOLDER%/lib/functions.tph~
+END
+
+ALWAYS
+  //either use cpmvars that have these variables set or add this variable declaration somewhere in your tp2 code
+  ACTION_IF GAME_IS ~eet~ BEGIN
+    OUTER_SET wmp_xCoord_SoA = 0 //in relation to BG2/BG2:EE WORLDMAP.WMP add 0 px correction to X coordinate
+    OUTER_SET wmp_yCoord_SoA = 2283 //in relation to BG2/BG2:EE WORLDMAP.WMP add 2283 px correction to Y coordinate
+    OUTER_TEXT_SPRINT wmp_worldmap_ToB "worldmap" //when editing ToB worldmap use WORLDMAP.WMP instead of WORLDM25.WMP
+  END ELSE BEGIN
+    OUTER_SET wmp_xCoord_SoA = 0
+    OUTER_SET wmp_yCoord_SoA = 0
+    OUTER_TEXT_SPRINT wmp_worldmap_ToB "worldm25"
+  END
+END
+
+LANGUAGE ~English~
+         ~English~
+          ~GroveOfChaos/translations/english/setup.tra~
+LANGUAGE ~Russian~
+         ~Russian~
+          ~GroveOfChaos/translations/russian/setup.tra~
+
+BEGIN @1
+DESIGNATED 0
+SUBCOMPONENT @2
+LABEL L#-XIKASZ-NOPATCH
+
+OUTER_SET include_saves = 0
+INCLUDE ~%MOD_FOLDER%/install.tph~
+
+BEGIN @3
+DESIGNATED 1
+SUBCOMPONENT @2
+LABEL L#-XIKASZ-PATCH
+
+OUTER_SET include_saves = 1
+INCLUDE ~%MOD_FOLDER%/install.tph~
+

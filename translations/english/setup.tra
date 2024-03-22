@@ -1,0 +1,312 @@
+@0    = ~v1.0~
+@1    = ~Yes, but don't patch existing save games.~
+@2    = ~Xikasz's Grove Of Chaos - a quest & companion mod for IWD:EE~
+@3    = ~Yes, and patch existing save games.~
+@18   = ~Xikâsz~
+@19   = ~When asked about his past, XIKÂSZ says he comes from the woods outside of Vallaki in Barovia, which is part of the Domains of Dread. He comes from a family of dusk elves, he's part of the Velikovnas clan, but he never felt like a "true" family member. He is believed to be quite grumpy, all to make sure others will leave him to his studies, books, and chores. 
+One day he was approached by his cousin, who wanted to beat him up for all the insults. He wanted to show Xikâsz his place, but when the mage tried to cast a defensive spell, something went wrong and the wild surge threw him across the planes. Now, he is here in the cold land of Icewind Dale.~
+@20   = ~Ah, of course, everything had to go wrong...!~ [L#XIK01]
+@21   = ~That kind of clarity of mind is most likely temporary...~ [L#XIK02]
+@22   = ~Ah, so you are one of those, hmm? Optimists who would think me right for this position? How delusional.~ [L#XIK03]
+@23   = ~Is there an end to this walk?~ [L#XIK04]
+@24   = ~Oh, of course. Let's stand here for another hour. Just to make sure we've wasted enough time.~ [L#XIK05]
+@25   = ~We shall shape your end together!~ [L#XIK06]
+@26   = ~Stand still, and I'll make your end quick.~ [L#XIK07]
+@27   = ~No mercy for the foolish!~ [L#XIK08]
+@28   = ~Ah!~ [L#XIK09]
+@29   = ~At least... I won't be disappointed... by anything else... anymore... agh...~ [L#XIK10]
+@30   = ~I don't know how much more blood I can lose before... I lose my pulse.~ [L#XIK11]
+@31   = ~A place like many others.~ [L#XIK12]
+@32   = ~I simply hate that blinding globe. Who would have thought I would miss the mist of the Domains of Dread?~ [L#XIK13]
+@33   = ~Nights are much calmer, aren't they?~ [L#XIK14]
+@34   = ~Hmm?~ [L#XIK15]
+@35   = ~Let's not make it TOO miserable, shall we?~ [L#XIK16]
+@36   = ~Patience is for the unfortunate. And that would be us.~ [L#XIK17]
+@37   = ~With false optimism.~ [L#XIK18]
+@38   = ~And that's your idea, I presume? *sigh*~ [L#XIK19]
+@39   = ~Fine. I'll do it.~ [L#XIK20]
+@40   = ~How many other dusk elves have you tormented to death?~ [L#XIK21]
+@41   = ~I ADORE your call of duty.~ [L#XIK22]
+@42   = ~Let's hope that will be enough!~ [L#XIK23]
+@43   = ~Annoyingly unfortunate.~ [L#XIK24]
+@44   = ~I don't think I can get through this one's defenses!~ [L#XIK25]
+@45   = ~Carry it yourself. I'm not taking it.~ [L#XIK26]
+@46   = ~If we're lucky enough, that should serve the purpose.~ [L#XIK27]
+@47   = ~Any advantage is better than none.~ [L#XIK28]
+@48   = ~Perhaps we should sell it?~ [L#XIK29]
+@49   = ~Death was always an option. I hope you knew that.~ [L#XIK30]
+@50   = ~Winter Wolf~
+@51   = ~Polar Bear~
+@52   = ~Lesser Gnoll Vampire~
+@53   = ~Gasous Form~
+@54   = ~Young Mnaghavi, the Gnoll Vampire~
+@55   = ~Musty Skeleton~
+@56   = ~Musty Skeleton Priest~
+@57   = ~Agitated Woman~
+@58   = ~Green Mass~
+@59   = ~Mnechnicra'leer, The King in Green~
+@60   = ~Fungal Creature~
+@61   = ~Summon Fungus~
+@62   = ~Turmoil Blade~
+@63   = ~Turmoil Blade
+(Evocation)
+
+Level: 3
+Range: 0
+Duration: 15 rounds
+Casting Time: 1
+Area of Effect: The caster
+Saving Throw: None
+
+This wild magic spell creates a chaotic blade, a shortsword that isn't simply a +2 sword, but each succesful hit may trigger one spell centered on the target: Larloch's Minor Drain, Reflected Image, Glitter Dust, Cat's Grace, Blindness, Slow, Protection from Fire, Monster Summoning I, Breach, Beltyn's Burning Blood.~
+@64   = ~Gnoll Vampire Weapon~
+@65   = ~Circlet~
+@66   = ~Circlet of Odds~
+@67   = ~Circlet of Odds
+This circlet was created for a wild mage named Riblusz Vaji by his wife, who specialized in the creation of powerful trinkets. She wanted to give her husband a greater chance of survival on the battlefield. If the tales are to believed, this item can enhance the abilities of wild mages and make them even more powerful.
+
+STATISTICS: 
+
+Equipped abilities: 
+– Lore: +8
+– Arcane Caster Level: +1 (Wild Mage only)
+– Roll bonus for a chance to gain a favorable wild surge effect: +2 (Wild Mage only)
+
+Charge abilities:
+– May Cast Spirit Ward once per day (as a 3rd level caster)
+This spell surrounds the recipient with a magical barrier at a distance of one foot. Spirits, fey creatures, elementals, and spectral undead receive a penalty of -2 to hit when attacking the protected creature. In addition, the recipient gains a +3 bonus to Saving Throws against all spells that belong to the Enchantment school. This spell cannot be cast on spirits, fey creatures, elementals, or spectral undead.
+
+Weight: 1~
+@68   = ~Robe~
+@69   = ~Scarlet Rags~
+@70   = ~Scarlet Rags
+This robe does not only provide passive protection for those that wear it, but are also able to shift fate and help those that are on the brink of life and death. For a price, of course. There is always a price.
+
+STATISTICS:
+
+Equipped abilities: 
+– Armor Class: +1
+– Maximum Hit Points: +10%
+
+Charge abilities:
+– Once per day may take a risk and suffer -1 Luck and cast Cure Light Wounds on self (Save vs. Death +1 to avoid the loss of Luck)
+
+Weight: 4~
+@71   = ~Scimitar~
+@72   = ~Oddsdevourer +1~
+@73   = ~Oddsdevourer +1
+This scimitar is believed to bring doom upon all humanoids. Its curved blade is glowing with dark energy. Some say that this weapon was touched by the Dark Powers of Ravenloft.
+
+STATISTICS:
+
+Combat abilities:
+– Enchantment, Damage and THAC0 vs. Humanoids: +3
+– Each successful hit has a 30% chance to apply -1 Luck penalty to target creature (no saving throw, lasts 2 rounds)
+
+THAC0: +1
+Damage: 1d8+1 (slashing)
+Proficiency Type: Scimitar/Wakizashi/Ninjato
+Speed Factor: 4
+Type: One-handed
+Requires:
+ 8 Strength
+
+Weight: 4~
+@74   = ~Book~
+@75   = ~Book of Frozen Prayers~
+@76   = ~Book of Frozen Prayers
+This book, even though it spent much time in the pond, wasn't destroyed even a bit. Its magic is still strong. It should be able to counter the afflictions caused by the negative energy.
+
+STATISTICS:
+
+Charge abilities:
+– May cast Lesser Restoration once per day (restores drained levels)
+
+Weight: 1~
+@77   = ~Short Sword~
+@78   = ~Silent Kiss +2~
+@79   = ~Silent Kiss +2
+This short sword is known as the Undead Kiss. When you found it, it was pierced into the back of raging gnoll vampire. It's hard to say if the gnoll was infected by its power, or was it the other way round and it was the undead nature of the beast that corrupted this sword?
+
+STATISTICS:
+
+Equipped abilities: 
+– Move Silently: +5%
+
+Combat abilities:
+– Each hit has a 25% chance to drain one level from the target
+
+THAC0: +2
+Damage: 1d6+2 (piercing)
+Speed Factor: 0
+Proficiency Type: Short Sword
+Type: One-handed
+Requires:
+ 4 Strength
+
+Weight: 2~
+@80   = ~Amulet~
+@81   = ~The Red Tentacles~
+@82   = ~This amulet is made of enhanced copper and a strange material that imitates small, red tentacles. If the stories are to be believed, this item was previously used by a vicious illithid that specialized in controlling the minds of others. It doesn't exactly make him much different to his kin, but he was also known to see beyond illusions and was able to summon thorns that would capture his enemies. It looks like it was thanks to this exact amulet.
+
+STATISTICS:
+
+Charge abilities:
+– May cast Spike Growth once per day
+
+Equipped abilities:
+– Charisma: +2
+– Detect Illusion: +25%
+
+Weight: 1~
+@83   = ~Buckler~
+@84   = ~Evening Buckler~
+@85   = ~Evening Buckler
+A buckler is a small shield of wood or metal that fastens to the forearm. Because of its size, it is light and can be worn with very little restriction to movement. This buckler has a symbol of Evening Glory painted on it. It clearly was enchanted with some significant magic.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +3 (reduced to +1 against missile and piercing attacks) 
+– Saving Throws vs. Death: +2
+– Magic Resistance: +18%
+
+Charge abilities:
+– May cast Animate Dead once per day
+
+Requires:
+ 4 Strength
+
+Weight: 2~
+@86   = ~Club~
+@87   = ~Club of Doubly Digested +2~
+@88   = ~Club of Doubly Digested +2
+This powerful club is of dark color. It's hard to say if it was hardened wood used in the process of creating the weapon, or something else. It can deal powerful damage and can be especially useful for creatures that need some... special treatment. In battle, it can burn with both the power of acid and fire. However, it comes with a price.
+
+STATISTICS:
+
+Equipped abilities:
+– Acid Resistance: +25%
+
+Combat abilities:
+– Each hit deals 1 Acid or 1 Fire damage (chances are equal)
+– Bludgeon Damage bonus: +20%
+– Cold Damage penalty: -40%
+
+THAC0: +2
+Damage: 1d6+2 (crushing)
+Speed Factor: 2
+Proficiency Type: Club
+Type: One-handed
+Requires:
+ 5 Strength
+
+Weight: 1~
+@89   = ~Ring~
+@90   = ~Spitting Doom~
+@91   = ~Spitting Doom
+This ring was named Spitting Doom because the mage that used it, named Blod Glagaran, was using it to enhance his acid spells. Some say that he was able to spit acid, but it's hard to say if that was true, or maybe a sign of some bad hygiene.
+
+STATISTICS:
+
+Equipped abilities:
+– Acid Damage bonus: +10%
+– Saving Throws: +1
+
+Weight: 0~
+@92   = ~Quarterstaff~
+@93   = ~Fall of the Summer +2~
+@94   = ~Fall of the Summer +2
+This weapon is known to protect those that wield it from the dark claws of death. It may be especially helpful for those that plan to face the dangers of cursed places and the magic of the necromancers.
+
+STATISTICS:
+
+Equipped abilities:
+– Saves vs. Death: +4
+– Saves vs. Necromancy: +1
+
+Combat abilities:
+– Each successful hit has a 20% chance to lower target's Armor Class by 1 point (lasts 2 rounds, no saving throw)
+
+THAC0: +2
+Damage: 1d6+2 (crushing)
+Speed Factor: 2
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+ 5 Strength
+
+Weight: 2~
+@95   = ~Turmoil Blade +2~
+@96   = ~This sword was created with the Turmoil Blade spell.
+
+STATISTICS:
+
+Combat abilities:
+– Each successful hit may trigger one spell centered on the target: Larloch's Minor Drain, Reflected Image, Glitter Dust, Cat's Grace, Blindness, Slow, Protection from Fire, Monster Summoning I, Breach, Beltyn's Burning Blood.
+
+THAC0: +2
+Damage: 1d6+2 (slashing)
+Speed Factor: 4
+Proficiency Type: Long Sword
+Type: One-handed
+Requires:
+ 6 Strength
+
+Weight: 4~
+@97   = ~Spear~
+@98   = ~Vraglahan +3~
+@99   = ~This powerful spear was once used by an otherwordly creature known as The Green King. The weapon itself is enchanted with death magic, as well as the destructive power of decay. In the right hands, it may become a tool of destruction. 
+
+Each hit made with this weapon deals acidic damage, and if the target is even more unfortunate, they may be infected with mold.
+
+STATISTICS:
+
+Equipped abilities:
+– Magic Resistance: +10%
+
+Combat abilities:
+– Strikes as a +5 weapon
+– Each hit has a 5% chance to apply Mold Touch on target
+
+THAC0: +3
+Damage: 1d8+3, +1d4 acid damage
+Damage type: piercing
+Speed Factor: 7
+Proficiency Type: Spear
+Type: Two-handed
+Requires:
+ 5 Strength
+
+Weight: 5~
+@100  = ~The Green King's Heart~
+@101  = ~This is a heart of a creature known as the Green King. If stories are true, the King had twelve such hearts pumping his vile blood.
+
+STATISTICS:
+
+Special: Heals 46 Hit Point; eating one of the hearts has a 12% chance to kill the one that devours it.
+
+Weight: 1~
+
+@102 = ~Scroll of Restoration~
+@103 = ~Lesser Restoration
+(Necromancy)
+
+Level: 4
+Sphere: Necromantic
+Range: Touch
+Duration: Permanent
+Casting Time: 2
+Area of Effect: 1 creature
+Saving Throw: None 
+
+When this spell is cast, the life energy level of the recipient is raised. This reverses any previous life energy level drain of the creature by a force or monster. The casting of this spell is very draining on the priest and <PRO_HESHE> will likely require rest immediately after the casting, as it will cause days' worth of fatigue almost instantaneously.~
+
+@104 = ~What's happening at the grove near Kuldahar?
+I was told that a strange man was seen on a way to a grove near Kuldahar. The person that told me about the man felt suspicious about him.~
+@105 = ~What's happening at the grove near Kuldahar?
+My investigation at the grove is done. I reached the final cave and handled the matter.~
+@106 = ~The Mold-Covered Man
+I met a mold-covered man - or rather a creature - in one of the caves of the Grove near Kuldahar. He asked me to free him. To become free and leave this world he needs seven Chrysoberyl Gems.~
+@107 = ~The Mold-Covered Man
+I met a mold-covered man - or rather a creature - in one of the caves of the Grove near Kuldahar. I freed him... only to show him that he should have never tried to trick me. He's gone now. Dead.~
